@@ -1,0 +1,2 @@
+import oop
+oop.teljes()

@@ -1,0 +1,52 @@
+Két menüpont legyen ( a mintától eltérően): 
+Mikroszkóp
+Táblázat
+
+______________________
+Mikroszkóp oldal tartalma
+_______________________
+
+A MIKROSZKÓP
+MIKROSZKÓPKÓPOK
+A mikroszkóp egy optikai műszer, amelyet arra használunk, hogy a szemmel nem látható, apró dolgokat felnagyítsuk, és így szemmel is láthatóvá tegyük. A mikroszkópoknak több fajtája is létezik:
+
+A hagyományos összetett mikroszkóp, vagy más néven biológiai mikroszkóp, több lencserendszerrel ellátott eszköz. Nagyon vékony dolgokat lehet vizsgálni velük, amelyeken a fény át tud haladni. A tárgy képe fordítva jelenik meg. Akár több, mint ezerszeres nagyítást is el lehet érni vele. Carl Zeiss és Ernst Abbe voltak, akik a 19. század második felében megalkották a most is használatos összetett mikroszkópokat, és lefektették annak matematikai, optikai alapjait. A Zeiss ma is fogalom az optikában, a mikroszkópok világában. A Zeiss mikroszkóp olyan, mint az autók között a Rolls-Royce!
+
+Carl Zeiss
+Carl Zeiss (Kép forrása: Wikipedia)
+A fénymikroszkópok másik fajtája a sztereomikroszkóp. Ezek mindig két szemes betekintést nyújtanak. Általában a tárgy felszínét világítják meg, és a visszaverődő fényt használják a nagyított kép megjelenítésére, így nincsen szükség a vizsgálandó dolog előkészítésére, hogy átengedje a fényt. Ezekkel a mikroszkópokkal általában kisebb nagyítás érhető el. Nagy különbség, hogy nem fordított, hanem irányhelyes képet hoznak létre, emiatt ilyen mikroszkópokat használnak például mütéteknél is.
+
+A digitális kamerák fejlődésével elterjedtek az úgynevezett usb-mikroszkópok. Ezek tulajdonképpen digitális kamerák, amelyek képét, usb-csatlakozáson keresztül, digitális eszközön jelenítik meg. Ezek nem olyan teljesítményüek, mint az igazi fénymikroszkópok.
+
+A fénymikroszkópok felbontó képességét, hogy mekkora nagyítást lehet velük elérni, behatárolja a fény hullámhossza. Ennek kiküszöbölésére találták fel az elektronmikroszkópot. Ebben nem fényt, hanem elektronsugárzást használnak, így akár több milliós nagyítás is elérhető.
+
+MIKROSZKÓP, MINT HOBBI
+Bár Magyarországon nem annyira ismert hobbi, de a világon nagyon sok ember foglalkozik hobbiszinten mikroszkópos vizsgálatokkal. Ne felejtsük el, hogy Antonie van Leeuwenhoek, akit a mikrobiológia apukájának tartanak (pl. ő látott először baktériumot, vörösvérsejtet, hímivarsejtet), holland posztókereskedő volt, aki a saját maga készítette "mikroszkóppal", ami egy egyszerű nagyítólencse volt, szabadidejében kutatta a körülötte lévő világot. A mikroszkóp neki is a hobbija volt.
+
+Már egész kisgyerekként vonzódtam az élőlényekhez, a növényekhez, az állatokhoz. Nem tudom miért, de a láthatatlan élőlények, az apróságok, különösen elbővöltek. Aztán egyszer kaptam egy műanyag játékmikroszkpót ajándékba. Mint minden hasonló eszköznek, ennek a minősége sem volt túl jó, de ez nem szegte a kedvemet, kitartóan megnéztem mindent, ami a kezem ügyébe került. Aztán amikor a laborban kezdtem dolgozni, a mikroszkóp a munkaeszközömmé vált.
+
+Tavaly a születésnapomra kaptam a feleségemtől egy komoly, nagyon jó minőségű mikroszkópot, amilyenről gyerekkoromba csak álmodhattam. Azóta újra, amikor csak időm engedi, megint mindent megnézek a mikroszkópomban. A családban én vagyok az egyedüli, aki örül neki, ha egy gyümölcs bepenészesdik, vagy valamilyen rovar betéved a lakásunkba.
+__________________________________________________________________________________
+
+Oldalsáv:
+__________________________________________________________________________________
+Én ezt a három mikroszkópos boltot ismerem Magyarországon, ahol amatőr mikroszkópizálók vásárolhatnak:
+
+Zoom'N'Joy
+Budapesti Távcső Centrum
+Makszutov.hu
+
+A kedvenc külföldi mikroszkópos oldalam, itt mindent meg lehet találni, amire egy amatőr mikroszkopizálónak szüksége lehet:
+
+Microscopy-UK
+
+__________________________________________________________________________________
+_____________
+Táblázat oldal tartalma
+________________
+Mikroszkópok - főcím, vagy caption
+- 1. sor 1. cella: Fénymikroszkópok 	
+- 1. sor 2. cella: Ultraibolya-mikroszkóp Ultramikroszkóp Konfokális pásztázó mikroszkóp Fáziskontraszt-mikroszkóp Fluoreszcenciamikroszkóp Binokuláris mikroszkóp Polarizációs mikroszkóp Sztereomikroszkóp
+
+- 2. sor 1. cella: Elektronmikroszkópok	
+- 2. sor 2. cella: Pásztázó elektronmikroszkóp Transzmissziós elektronmikroszkóp Atomerő mikroszkópia (AFM)Elektrosztatikus mikroszkóp Mágneses erőmikroszkóp Pásztázó alagútmikroszkóp Közeli mező optikai mikroszkópia (NSOM)Akusztikus mikroszkóp
